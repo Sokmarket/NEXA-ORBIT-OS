@@ -1,0 +1,18 @@
+{
+  "name": "NEXA ORBIT OS — Virtual Phone Lab",
+  "short_name": "NEXA ORBIT",
+  "description": "Özgün, çevrimdışı öncelikli sanal telefon ve güvenli ağ laboratuvarı.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d18",
+  "theme_color": "#0b1020",
+  "lang": "tr",
+  "categories": [
+    "education",
+    "utilities",
+    "developer"
+  ],
+  "icons": []
+}
